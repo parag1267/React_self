@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffffff;
+}
+
+html,body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #111111;
+}
+
+.card {
+  background-color: pink;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: lightblue;
+  margin: 20px;
+  padding: 8px;
+}
